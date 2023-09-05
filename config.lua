@@ -60,9 +60,9 @@ Config = {
 		"can",
 	},
 	DumpItems = {
-		"bottle",
-		"can",
-		"sandwich",
+		{item = "bottle"},
+		{item = "can"},
+		{item = "sandwich"},
 	},
 	ScrapItems = {
 		"steel",
